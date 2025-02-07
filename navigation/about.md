@@ -13,9 +13,9 @@ Creator of Student 2025
 ###### 4. my name represents lion in arabic
 ###### 5. im fluent in up to 3 languages, somali, arabic, and english.
 
-Theses are all just fun facts about me.
+###### Theses are all just fun facts about me.
 
 
-![](/images/Flag_of_Somalia.svg.png)
+![flag of somalia](/images/Flag_of_Somalia.svg.png)
 
-![](/images/languages-around-the-world%20(1).png)
+![languages around the world](/images/languages-around-the-world%20(1).png)
