@@ -5,7 +5,7 @@ description: Home Page
 hide: true
 ---
 
-## welcome, to Hamza's page.
+## welcome, to Hamza's bio.
 
 
 ### Code
