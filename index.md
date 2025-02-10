@@ -9,6 +9,6 @@ hide: true
 
 
 ### Code
-<a src="/ticTacToe.md">
+<a href="/ticTacToe.md">
 <button>Tic tac toe </button>
 </a>
