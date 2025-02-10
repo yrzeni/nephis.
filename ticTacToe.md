@@ -1,3 +1,10 @@
+---
+layout: base
+title: Tic tac toe game 
+description: you can play Tic tac toe
+hide: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
