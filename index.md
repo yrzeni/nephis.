@@ -9,6 +9,6 @@ hide: true
 
 
 ### Code
-<a href="/ticTacToe.md">
+<a href="{{site.baseurl}}/ticTacToe.md">
 <button>Tic tac toe </button>
 </a>
