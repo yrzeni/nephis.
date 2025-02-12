@@ -1,8 +1,14 @@
+---
+layout: base
+title: Tic Tac Toe Game 
+description: Game
+hide: true
+---
+
 # Tic-Tac-Toe Game
 
 Below is the HTML, CSS, and JavaScript code for the Tic-Tac-Toe game.
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
