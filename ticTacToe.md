@@ -7,9 +7,9 @@ hide: true
 
 # Tic-Tac-Toe Game
 
-Below is the HTML, CSS, and JavaScript code for the Tic-Tac-Toe game.
 
-<!DOCTYPE html>
+
+<!DOCTYPE md>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -147,4 +147,4 @@ Below is the HTML, CSS, and JavaScript code for the Tic-Tac-Toe game.
   </script>
 
 </body>
-</html>
+</md>
