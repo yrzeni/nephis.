@@ -7,6 +7,7 @@ hide: true
 
 # Tic-Tac-Toe Game
 
+https://github.com/yrzeni/nephis./blob/main/tic-tac-toe.md
 
 
 # Tic-Tac-Toe Game
