@@ -10,7 +10,7 @@ hide: true
 [ticTacToe](https://yrzeni.github.io/nephis./ticTacToe.md)
 
 
-# Tic-Tac-Toe Game
+
 
 Play the Tic-Tac-Toe game below.
 
