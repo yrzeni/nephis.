@@ -7,7 +7,7 @@ hide: true
 
 # Tic-Tac-Toe Game
 
-https://yrzeni.github.io/nephis./ticTacToe.md
+[ticTacToe](https://yrzeni.github.io/nephis./ticTacToe.md)
 
 
 # Tic-Tac-Toe Game
