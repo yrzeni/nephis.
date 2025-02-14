@@ -5,7 +5,7 @@ description: Game
 hide: true
 ---
 
-# Tic-Tac-Toe Game
+# ticTacToe Game
 
 [ticTacToe](https://yrzeni.github.io/nephis./ticTacToe.md)
 
