@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Tic Tac Toe Game 
+title: Tic Tac Toe
 description: Game
 hide: true
 ---
