@@ -2,7 +2,7 @@
 layout: base
 title: Tic Tac Toe Game
 description: Game
-hide: true
+hide: false
 ---
 
 # ticTacToe game
