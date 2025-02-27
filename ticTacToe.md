@@ -13,7 +13,7 @@ hide: true
 
 
 Play the Tic-Tac-Toe game below.
-
+</run>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh; background-color: #f4f4f4; margin: 0;">
 
   <div class="game-container" style="display: grid; grid-template-columns: repeat(3, 100px); grid-template-rows: repeat(3, 100px); gap: 5px;">
