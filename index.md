@@ -12,3 +12,5 @@ hide: true
 <a href="{{site.baseurl}}/ticTacToe.md">
 <button>Tic tac toe </button>
 </a>
+
+</hunt: 90 meters>
