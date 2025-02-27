@@ -2,7 +2,7 @@
 layout: base
 title: Tic Tac Toe Game
 description: Tic Tac Toe Game
-hide: true
+hide: False
 ---
 
 # ticTacToe game
@@ -89,6 +89,6 @@ Play the Tic-Tac-Toe game below.
   cells.forEach(cell => {
     cell.addEventListener('click', handleCellClick);
   });
-</run>
+<(/hack)>
 
 
