@@ -14,4 +14,4 @@ hide: true
 </a>
 
 </hunt: 90 meters>
-nerf hanzo 
+BRING BACK TYPE SOUL
