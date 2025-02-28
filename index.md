@@ -14,4 +14,4 @@ hide: true
 </a>
 
 </hunt: 90 meters>
-BRING BACK TYPE SOUL
+BRING BACK TYPE SOUL 2025
